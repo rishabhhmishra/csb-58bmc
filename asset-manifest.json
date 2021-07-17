@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rishabhhmishra.github.io/csb-58bmc/static/css/main.81dbe457.chunk.css",
+    "main.js": "https://rishabhhmishra.github.io/csb-58bmc/static/js/main.687fa15d.chunk.js",
+    "main.js.map": "https://rishabhhmishra.github.io/csb-58bmc/static/js/main.687fa15d.chunk.js.map",
+    "runtime-main.js": "https://rishabhhmishra.github.io/csb-58bmc/static/js/runtime-main.ca29c448.js",
+    "runtime-main.js.map": "https://rishabhhmishra.github.io/csb-58bmc/static/js/runtime-main.ca29c448.js.map",
+    "static/js/2.19a747a1.chunk.js": "https://rishabhhmishra.github.io/csb-58bmc/static/js/2.19a747a1.chunk.js",
+    "static/js/2.19a747a1.chunk.js.map": "https://rishabhhmishra.github.io/csb-58bmc/static/js/2.19a747a1.chunk.js.map",
+    "index.html": "https://rishabhhmishra.github.io/csb-58bmc/index.html",
+    "static/css/main.81dbe457.chunk.css.map": "https://rishabhhmishra.github.io/csb-58bmc/static/css/main.81dbe457.chunk.css.map",
+    "static/js/2.19a747a1.chunk.js.LICENSE.txt": "https://rishabhhmishra.github.io/csb-58bmc/static/js/2.19a747a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca29c448.js",
+    "static/js/2.19a747a1.chunk.js",
+    "static/css/main.81dbe457.chunk.css",
+    "static/js/main.687fa15d.chunk.js"
+  ]
+}
